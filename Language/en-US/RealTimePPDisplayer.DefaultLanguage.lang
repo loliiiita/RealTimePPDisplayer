@@ -1,6 +1,6 @@
 [en-US]
 UI_MENU_TOPMOST=Topmost
-TEXT_MODE_OUTPUT_PATH_FORMAT=[RealTimePPDisplayer]PP File: {0}
+TEXT_MODE_OUTPUT_PATH_FORMAT=[RealTimePPDisplayer]pp File: {0}
 MMF_MODE_OUTPUT_PATH_FORMAT=[RealTimePPDisplayer]Memory Mapping File: {0}
 FPS=FPS
 TextOutputPath=Text output path
@@ -18,7 +18,7 @@ Topmost=Topmost
 WindowTextShadow=Window text shadow
 OutputMethods=Output methods
 DebugMode=Debug mode
-PPFormat=PP format
+PPFormat=pp format
 HitCountFormat=Hit count format
 RoundDigits=Digits
-IgnoreTouchScreenDecrease=Ignore touch screen decrease
+IgnoreTouchScreenDecrease=Ignore touchscreen nerf
